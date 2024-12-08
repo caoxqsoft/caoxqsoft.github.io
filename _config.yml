@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: Ov23lifEf0FWXXWPKFmN
+  clientSecret: 85e54e753ca0a2b20a9b54eb26c4f4cc90611eeb
   repo: caoxqsoft.github.io
   owner: caoxqsoft
 
