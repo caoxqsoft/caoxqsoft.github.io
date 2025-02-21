@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9826f015-4d0c-4046-b625-30c1a5e87f74)---
+---
 layout: post
 title: "三味书屋多页TIFF软件"
 date:   2025-02-21
@@ -11,7 +11,7 @@ author: 君子聆听
 
 # 一、下载地址
     
-	国际地址：https://1drv.ms/f/c/bcdc59f9d7581800/EkKRnZqEhiRBsqMGgWX5jVQBqkNiLLVPAJWK-KzWEMrxSA?e=EsQyoE
+	国际地址：https://1drv.ms/f/c/bcdc59f9d7581800/Eh73yCS-AH1BiRLUrHROMrYB1ZIq-kkFfcdgnXPC_FkdVg?e=4GqwHD
 	中国大陆：链接地址：https://pan.baidu.com/s/1sQ7etC3JT-VmpOJ79assDg?pwd=3u2e
 		 提取码：3u2e
 
