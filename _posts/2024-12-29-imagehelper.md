@@ -10,7 +10,7 @@ author: 君子聆听
 三味书屋图像档案处理软件是一款专业性质的图像软件，主要专注于图像档案的处理，包括格式转换、图像重命名、图像压缩、水印保护、ICO转换
 等功能。
 
-![image](https://github.com/user-attachments/assets/1526b35b-c4ca-41ab-885f-bad8cb2f4f03)
+
 
 
 # 二、下载地址
@@ -35,6 +35,8 @@ author: 君子聆听
 
 
 # 五、功能说明
+
+![image](https://github.com/user-attachments/assets/1526b35b-c4ca-41ab-885f-bad8cb2f4f03)
 
 ## 5.1 格式转换
     
