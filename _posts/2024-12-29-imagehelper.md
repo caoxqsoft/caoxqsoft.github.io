@@ -6,22 +6,23 @@ tags: [三味书屋图像档案处理软件,三味书屋,图像处理,档案,格
 comments: true
 author: 君子聆听
 ---
-三味书屋图像档案处理软件是一款专业性质的图像软件，主要专注于图像档案的处理，包括格式转换、图像重命名、图像压缩、水印保护、ICO转换
+
+三味书屋图像档案处理软件是一款专业性质的图像软件，主要专注于图像档案的处理，包括**格式转换**、**图像重命名**、**图像压缩**、**水印保护**、**ICO转换**
 等功能。
 
-# 二、下载地址
+# 一、下载地址
     
 	国际地址：https://1drv.ms/f/c/bcdc59f9d7581800/EkKRnZqEhiRBsqMGgWX5jVQBqkNiLLVPAJWK-KzWEMrxSA?e=EsQyoE
 	中国大陆：链接地址：https://pan.baidu.com/s/1fFBSVvWpoj-SwhTHuG5orA 
 		 提取码：bim2
 
-# 三、更新说明（最新为4.0 版本）
+# 二、更新说明（最新为4.0 版本）
     
-1、“图像压缩”模块新增 png、webp等格式。
-2、新增“ICO转换”模块。
+1. “图像压缩”模块新增 png、webp等格式。
+2. 新增“ICO转换”模块。
 
 
-# 四、运行环境
+# 三、运行环境
     
 	操作系统：Windows 64位
 	版本支持：Windows 7 / 8 / 8.1 / 10 / 11
@@ -30,18 +31,18 @@ author: 君子聆听
 		② Windows 7 需安装WebpCodec，才能支持Webp格式
 
 
-# 五、功能说明
+# 四、功能说明
 
 ![image](https://github.com/user-attachments/assets/1526b35b-c4ca-41ab-885f-bad8cb2f4f03)
 
-## 5.1 格式转换
+## 4.1 格式转换
     
 提供包括JPG、PNG、TIFF、BMP、WEBP等超过100种格式的支持与转换。
 详细格式请跳转： http://www.imagemagick.com.cn/formats.html
 
 ![image](https://github.com/user-attachments/assets/2a1e99fc-17fc-488b-8323-f4b2ce29d413)
 
-## 5.2 图像重命名
+## 4.2 图像重命名
     
 提供对图像或其它格式文件的重命名功能。
 
@@ -58,7 +59,7 @@ author: 君子聆听
 		跨文件夹顺延计数器：此选项决定文件计数器是按单个文件夹里面的文件计数还是按所有找到的文件计数。
 
 
-## 5.3 图像压缩
+## 4.3 图像压缩
     
 提供对图像文件的高质量压缩功能。
 
@@ -66,21 +67,21 @@ author: 君子聆听
 ![image](https://github.com/user-attachments/assets/d42095cf-817c-44de-8d87-fdb4cc8f2230)
 
 
-## 5.4 水印保护
+## 4.4 水印保护
     
 对图像文件添加水印，以保护版权。
 
 ![image](https://github.com/user-attachments/assets/cb78a622-2715-4955-a9e7-bba0f5fb89a0)
 ![image](https://github.com/user-attachments/assets/434f36e9-d873-49f9-8aa0-bfe16ce6f826)
 
-## 5.5 ICO转换
+## 4.5 ICO转换
     
 对图像文件添加水印，以保护版权。
 
 ![image](https://github.com/user-attachments/assets/7c819b06-aad1-4c9e-bbce-e1b7844e9edd)
 ![image](https://github.com/user-attachments/assets/5903d55b-ac8a-41ee-9a4f-0f793b9b08cc)
 
-# 六、注册激活
+# 五、注册激活
 
 默认有3天试用时间，可依据实际需要选择是否注册激活软件。
 
