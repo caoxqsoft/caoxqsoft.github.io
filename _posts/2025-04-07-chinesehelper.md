@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24e2dd2a-d813-483e-a721-d46a45bb96f8)---
+---
 layout: post
 title: "三味书屋汉语词典"
 date:   2025-04-07
