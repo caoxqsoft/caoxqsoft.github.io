@@ -11,9 +11,8 @@ author: 君子聆听
 ![image](https://github.com/user-attachments/assets/b6630dbc-7c73-4ca0-8898-39fa1e1871cf)
 
 # 一、下载地址
-    
-国际地址：https://1drv.ms/f/c/bcdc59f9d7581800/IgB38bZxjmkMRLex-Y9w4nSrAeQrRZcNp4B85MCFuSWY3eo?e=mckIyr
-中国大陆：https://pan.baidu.com/s/10-9tOC8PN93e4CcTmW1qQg?pwd=oyjm 提取码：oyjm
+- 国际地址：https://1drv.ms/f/c/bcdc59f9d7581800/IgB38bZxjmkMRLex-Y9w4nSrAeQrRZcNp4B85MCFuSWY3eo?e=mckIyr
+- 中国大陆：https://pan.baidu.com/s/10-9tOC8PN93e4CcTmW1qQg?pwd=oyjm 提取码：oyjm
 
 # 二、更新说明（最新为5.1 版本）
     
@@ -59,7 +58,7 @@ author: 君子聆听
 
 ## 5.2 PDF转文档
 ### 一、简介
-        将PDF转换为Word、Excel或其它文档格式。
+将PDF转换为Word、Excel或其它文档格式。
 ![image](https://github.com/user-attachments/assets/eba0330d-cffc-4167-9626-f778017bc75d)
 
 ### 二、参数说明
@@ -89,7 +88,7 @@ author: 君子聆听
 
 ## 5.3 PDF转TXT
 ### 一、简介
-        将PDF导出为TXT文本文档。
+将PDF导出为TXT文本文档。
 ![image](https://github.com/user-attachments/assets/61d93ad2-89f3-4728-a5da-90456f065b58)
 
 ### 二、参数说明
@@ -148,7 +147,7 @@ author: 君子聆听
 
 ## 5.5 文档转PDF
 ### 一、简介
-        将支持的文档格式转为PDF。
+将支持的文档格式转为PDF。
 ![image](https://github.com/user-attachments/assets/c9b26e97-f1e3-47bd-9126-9ce9c3f154fa)
 
 ### 二、参数说明
@@ -173,7 +172,7 @@ author: 君子聆听
 
 ## 5.6 PDF转双层PDF
 ### 一、简介
-        将含有图片页面的PDF文档转换为可搜索文本文档（双层PDF） 。
+将含有图片页面的PDF文档转换为可搜索文本文档（双层PDF） 。
 ![image](https://github.com/user-attachments/assets/e59c3470-cea0-4187-9212-b51cbaf2f3aa)
 
 ### 二、参数说明
@@ -191,7 +190,7 @@ author: 君子聆听
 
 ## 5.7 PDF版本转换
 ### 一、简介
-        将PDF文件转换为指定的PDF版本。
+将PDF文件转换为指定的PDF版本。
 ![image](https://github.com/user-attachments/assets/f08a59cd-227e-4b67-ace5-c195119a8a1a)
 
 ### 二、参数说明
@@ -209,8 +208,8 @@ author: 君子聆听
 
 ## 5.8 PDF合并
 ### 一、简介
-        将PDF文件按文件夹合并，或者是所有PDF合并成一个文件。
-<img width="1818" height="1325" alt="image" src="https://github.com/user-attachments/assets/8cfe2787-61da-4bc2-9b45-97a1141085b8" />
+将PDF文件按文件夹合并，或者是所有PDF合并成一个文件。
+![image](https://github.com/user-attachments/assets/8cfe2787-61da-4bc2-9b45-97a1141085b8)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -226,8 +225,8 @@ author: 君子聆听
 
 ## 5.9 PDF拆分
 ### 一、简介
-        将PDF文件拆分，可以选择每个PDF拆分成一个单独文件夹，或者是所有拆分文件放置在同一文件夹下。
-<img width="1821" height="1331" alt="image" src="https://github.com/user-attachments/assets/7e7a953f-0400-48fa-8716-f786027c4fcb" />
+将PDF文件拆分，可以选择每个PDF拆分成一个单独文件夹，或者是所有拆分文件放置在同一文件夹下。
+![image](https://github.com/user-attachments/assets/7e7a953f-0400-48fa-8716-f786027c4fcb)
 
 ### 二、参数说明      
 	        提示：源文件夹自动包含下面所有子文件夹
@@ -243,8 +242,8 @@ author: 君子聆听
 
 ## 5.10 PDF压缩
 ### 一、简介
-        将PDF文件压缩，可以通过选择压缩文本以及压缩图像来减少PDF大小。
-<img width="1815" height="1325" alt="image" src="https://github.com/user-attachments/assets/0f9c460b-6c4f-4b39-91e5-ec77a9f4eaac" />
+将PDF文件压缩，可以通过选择压缩文本以及压缩图像来减少PDF大小。
+![image](https://github.com/user-attachments/assets/0f9c460b-6c4f-4b39-91e5-ec77a9f4eaac)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -267,8 +266,8 @@ author: 君子聆听
 
 ## 5.11 PDF保护
 ### 一、简介
-	        防止他人查看、复制、打印和编辑PDF中的信息，或者设置文档过期时间。
-<img width="1818" height="1326" alt="image" src="https://github.com/user-attachments/assets/d511ee2e-267a-4e89-91b8-e7e7971bb245" />
+防止他人查看、复制、打印和编辑PDF中的信息，或者设置文档过期时间。
+![image](https://github.com/user-attachments/assets/d511ee2e-267a-4e89-91b8-e7e7971bb245)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -287,8 +286,7 @@ author: 君子聆听
 	                    2.6 复制内容用于表单域：是否允许复制内容用于表单域
 	                    2.7 高质量打印：是否允许高质量打印
 	            6. 时间保护：设置文档过期时间
-<img width="1884" height="1001" alt="image" src="https://github.com/user-attachments/assets/f7bfd189-d88f-45ab-87f0-df8821d1dac7" />
-
+![image](https://github.com/user-attachments/assets/f7bfd189-d88f-45ab-87f0-df8821d1dac7)
 	            7. 过期时间：选择文档要过期的时间
 	            8. 保存方式：
 	                ① 另存为新文件
@@ -296,8 +294,8 @@ author: 君子聆听
 
 ## 5.12 PDF水印
 ### 一、简介
-	        对PDF添加水印以声明版权。
-<img width="1815" height="1325" alt="image" src="https://github.com/user-attachments/assets/6deeea8f-4659-4bd1-ad2d-7833689b4472" />
+对PDF添加水印以声明版权。
+![image](https://github.com/user-attachments/assets/6deeea8f-4659-4bd1-ad2d-7833689b4472)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -327,8 +325,8 @@ author: 君子聆听
 
 ## 5.13 PDF页数统计
 ### 一、简介
-	        统计PDF页数及大小，并将统计数据导出为Excel工作簿。 
-<img width="1815" height="1325" alt="image" src="https://github.com/user-attachments/assets/4ff123c8-3a3f-40ef-91b4-90e83a9647c7" />
+统计PDF页数及大小，并将统计数据导出为Excel工作簿。 
+![image](https://github.com/user-attachments/assets/4ff123c8-3a3f-40ef-91b4-90e83a9647c7)
 
 ### 二、参数说明
 	        提示：源文件夹自动包含下面所有子文件夹
@@ -336,10 +334,10 @@ author: 君子聆听
 
 ## 5.14 PDF空白页检测
 ### 一、简介
-	        检测PDF文件里面的空白页面，并可以选择是否导出相关检测信息以及是否删除对应空白页面。
-<img width="1800" height="1305" alt="image" src="https://github.com/user-attachments/assets/b11373f9-6145-48ee-afd5-48c60c686d37" />
+检测PDF文件里面的空白页面，并可以选择是否导出相关检测信息以及是否删除对应空白页面。
+![image](https://github.com/user-attachments/assets/b11373f9-6145-48ee-afd5-48c60c686d37)
 
-<img width="1800" height="1305" alt="image" src="https://github.com/user-attachments/assets/f1bdfb84-f483-499d-b37a-991aaacd0e88" />
+![image](https://github.com/user-attachments/assets/f1bdfb84-f483-499d-b37a-991aaacd0e88)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -352,8 +350,8 @@ author: 君子聆听
 
 ## 5.15 PDF移动
 ### 一、简介
-	        将PDF或指定类型的文件从纷杂众多的文件和文件夹中移动或复制出来。 
-<img width="1817" height="1326" alt="image" src="https://github.com/user-attachments/assets/863f9738-6a6b-4ea4-99a1-3afe5c171a4e" />
+将PDF或指定类型的文件从纷杂众多的文件和文件夹中移动或复制出来。 
+![image](https://github.com/user-attachments/assets/863f9738-6a6b-4ea4-99a1-3afe5c171a4e)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -365,8 +363,8 @@ author: 君子聆听
 
 ## 5.16 PDF属性
 ### 一、简介
-	        可以对PDF的各项属性进行批量更新与设置。 
-<img width="1820" height="1328" alt="image" src="https://github.com/user-attachments/assets/699446f8-f1e5-49d6-9c8e-0fc403c1f17d" />
+可以对PDF的各项属性进行批量更新与设置。 
+![image](https://github.com/user-attachments/assets/699446f8-f1e5-49d6-9c8e-0fc403c1f17d)
 
 ### 二、参数说明
 	        提示：源文件夹自动包含下面所有子文件夹
@@ -390,8 +388,8 @@ author: 君子聆听
 
 ## 5.17 PDF隐私
 ### 一、简介
-	        可以擦除PDF的属性以保护隐私信息。
-<img width="1820" height="1323" alt="image" src="https://github.com/user-attachments/assets/892c623d-b5de-418f-a324-07b76f7b63d5" />
+可以擦除PDF的属性以保护隐私信息。
+![image](https://github.com/user-attachments/assets/892c623d-b5de-418f-a324-07b76f7b63d5)
 
 ### 二、参数说明
 	        提示：源文件夹自动包含下面所有子文件夹
@@ -406,8 +404,7 @@ author: 君子聆听
 
 # 六、设置选项
         可以在此查看和设置一些常规选项及OCR语言支持情况。
-		<img width="1814" height="1325" alt="image" src="https://github.com/user-attachments/assets/dba898ae-adcb-4ff4-a287-010e924e9c1c" />
-
+		![image](https://github.com/user-attachments/assets/dba898ae-adcb-4ff4-a287-010e924e9c1c)
         1. 常规设置：
                 可以选择是否保留7天内文件浏览记录
         2. OCR设置
