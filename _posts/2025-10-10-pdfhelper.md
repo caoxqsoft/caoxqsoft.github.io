@@ -8,8 +8,7 @@ author: 君子聆听
 ---
 
 三味书屋PDF档案处理软件是专门针对档案行业，以PDF文档的批处理为主要功能的软件 **--**。
-<img width="1884" height="1001" alt="image" src="https://github.com/user-attachments/assets/b6630dbc-7c73-4ca0-8898-39fa1e1871cf" />
-
+![image](https://github.com/user-attachments/assets/b6630dbc-7c73-4ca0-8898-39fa1e1871cf)
 
 # 一、下载地址
     
@@ -31,8 +30,7 @@ author: 君子聆听
 ## 5.1 PDF转图像
 ### 一、简介
 将PDF转换成JPG、PNG、BMP、SVG、TIFF、多页TIFF等图像格式。
-<img width="1829" height="1332" alt="image" src="https://github.com/user-attachments/assets/c4653b22-b128-4a41-8343-8dec78e9e7be" />
-
+![image](https://github.com/user-attachments/assets/c4653b22-b128-4a41-8343-8dec78e9e7be)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -62,8 +60,7 @@ author: 君子聆听
 ## 5.2 PDF转文档
 ### 一、简介
         将PDF转换为Word、Excel或其它文档格式。
-<img width="1820" height="1328" alt="image" src="https://github.com/user-attachments/assets/eba0330d-cffc-4167-9626-f778017bc75d" />
-
+![image](https://github.com/user-attachments/assets/eba0330d-cffc-4167-9626-f778017bc75d)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -93,8 +90,7 @@ author: 君子聆听
 ## 5.3 PDF转TXT
 ### 一、简介
         将PDF导出为TXT文本文档。
-<img width="1823" height="1329" alt="image" src="https://github.com/user-attachments/assets/61d93ad2-89f3-4728-a5da-90456f065b58" />
-
+![image](https://github.com/user-attachments/assets/61d93ad2-89f3-4728-a5da-90456f065b58)
 
 ### 二、参数说明
 	            1. 导出方式
@@ -124,7 +120,7 @@ author: 君子聆听
 ## 5.4 图像转PDF
 ### 一、简介
         将图像转换成PDF，可以选择OCR生成可搜索文本文档（双层PDF）。
-<img width="1818" height="1337" alt="image" src="https://github.com/user-attachments/assets/9c451b3a-0d88-4efe-b265-62cf61e6cd9a" />
+![image](https://github.com/user-attachments/assets/9c451b3a-0d88-4efe-b265-62cf61e6cd9a)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -153,7 +149,7 @@ author: 君子聆听
 ## 5.5 文档转PDF
 ### 一、简介
         将支持的文档格式转为PDF。
-<img width="1820" height="1328" alt="image" src="https://github.com/user-attachments/assets/c9b26e97-f1e3-47bd-9126-9ce9c3f154fa" />
+![image](https://github.com/user-attachments/assets/c9b26e97-f1e3-47bd-9126-9ce9c3f154fa)
 
 ### 二、参数说明
 	            提示：源文件夹自动包含下面所有子文件夹
@@ -178,7 +174,7 @@ author: 君子聆听
 ## 5.6 PDF转双层PDF
 ### 一、简介
         将含有图片页面的PDF文档转换为可搜索文本文档（双层PDF） 。
-<img width="1815" height="1323" alt="image" src="https://github.com/user-attachments/assets/e59c3470-cea0-4187-9212-b51cbaf2f3aa" />
+![image](https://github.com/user-attachments/assets/e59c3470-cea0-4187-9212-b51cbaf2f3aa)
 
 ### 二、参数说明
 	        提示：源文件夹下自动包含子文件夹
@@ -196,7 +192,7 @@ author: 君子聆听
 ## 5.7 PDF版本转换
 ### 一、简介
         将PDF文件转换为指定的PDF版本。
-<img width="1817" height="1325" alt="image" src="https://github.com/user-attachments/assets/f08a59cd-227e-4b67-ace5-c195119a8a1a" />
+![image](https://github.com/user-attachments/assets/f08a59cd-227e-4b67-ace5-c195119a8a1a)
 
 ### 二、参数说明
 	        （1）输出版本：支持转换为以下PDF版本
