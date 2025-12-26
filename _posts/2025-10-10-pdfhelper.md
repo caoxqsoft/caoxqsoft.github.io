@@ -210,7 +210,7 @@ author: 君子聆听
 				① 每个PDF页面上的图像全部导出
 				② 每个PDF页面上的图像只导出一张
 			11、输出格式：支持输出的格式为：jpg、jpeg、png、webp、tif、tiff等
-			12、保存当时：
+			12、保存方式：
 				① 每个PDF导出为一个文件夹（保留文件夹结构）
 				② 保存于同一文件夹下
 
@@ -429,9 +429,10 @@ author: 君子聆听
             7、自定义属性：是否擦除自定义属性。
 
 # 六、设置选项
-        可以在此查看和设置一些常规选项及OCR语言支持情况。
-		![image](https://github.com/user-attachments/assets/dba898ae-adcb-4ff4-a287-010e924e9c1c)
-        1. 常规设置：
+可以在此查看和设置一些常规选项及OCR语言支持情况。
+![image](https://github.com/user-attachments/assets/dba898ae-adcb-4ff4-a287-010e924e9c1c)
+        
+		1. 常规设置：
                 可以选择是否保留7天内文件浏览记录
         2. OCR设置
         当有受支持的OCR语言未安装语言包时，可以点击“添加更多语言”查看添加教程。
